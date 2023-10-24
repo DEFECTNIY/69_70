@@ -115,10 +115,10 @@ body {
   width: 100%;
   border-radius: 100px;
   background: #D0DCE7;
+  transition-duration: .6s;
 }
 
 .button:hover {
   background: #83ADD3;
-  transition-duration: .5s;
   color: #F8FCFF;
 }
